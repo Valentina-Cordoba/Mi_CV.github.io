@@ -21,7 +21,7 @@ el color de los iconos es  #4e0041
 
 Lado derecho:
 
-El color del fonde es white
+El color del fondo es white
 
 el color de los encabezados h2 es #452540
 
